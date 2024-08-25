@@ -1,0 +1,66 @@
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.151);
+}
+.asus {
+    background-color: rgb(48, 48, 182);
+    color: white;
+    font-weight: 700px;
+    width: 90px;
+    text-align: center;
+    margin-left: 10px;
+}
+.btn{
+    background-color: rgb(235, 152, 0);
+    color: white;
+    width: 200px;
+    margin-left: 28px;
+}
+.card-text{
+    line-height: 18px;
+    font-weight: 700px;
+}
+.price{
+    justify-content: space-between;
+}
+.p{
+   
+    margin-right: 10px;
+}
+.all{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+}
+
+.asus1{
+    background-color: rgb(235, 152, 0);
+    width: 100px;
+    text-align: center;
+    margin-left: 10px;
+    color: white;
+}
+
+.eg{
+    margin-right: 10px;
+}
+.asus2{
+    background-color: none;
+    color: grey;
+    margin-left: 10px;
+
+}
+.icons{
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.top-label {
+    width: 100px;
+    padding: 10px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
